@@ -1,0 +1,13 @@
+mylist = ["ahmet",
+          "ayşe",
+          "mehmet",
+          "ali",
+          "yelda",
+          "hakan",
+          "selin",
+          "serhat",
+          "aslı",
+          "sude",
+          "okan",
+          "ferhat",
+          "canan"]
